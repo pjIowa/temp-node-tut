@@ -1,0 +1,13 @@
+//node commands
+//npm --version
+//npm i PACKAGE_NAME, installs package in local project
+//npm i PACKAGE_NAME -D, install package in local project as dev dependency
+//npm install -g PACKAGE_NAME, installs package globally
+//npm uninstall PACKAGE_NAME, uninstalls package in local project
+//package.json, manifest file of what packages used in local project
+    //can be created manually at root folder or with below commands
+//npm init, asks to select among options
+//npm init -y, uses all defaults
+//npm start, runs start script in package.json
+//npm run SCRIPT_NAME, general form to run associated script in package.json 
+//put node_modules folder in gitignore, run npm install to install dependencies in package.json
